@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Station Results</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Available Fuel Stations in San Francisco</h1>
+        <div class="stations-grid">
+            {% for station in stations %}
+                <div class="station-card">
+                    <h2>{{ station['name'] }}</h2>
+                    <p><strong>Address:</strong> {{ station['address'] }}</p>
+                    <p><strong>City:</strong> {{ station['city'] }}</p>
+                    <p><strong>Wait Time:</strong> {{ station['wait_time'] }} minutes</p>
+                    <p><strong>Type:</strong> {{ station['type'] }}</p>
+                    <p><strong>Price:</strong> {{ station['price'] }}</p>
+                    <a class="directions-btn" href="{{ station['google_maps_link'] }}" target="_blank">Get Directions</a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

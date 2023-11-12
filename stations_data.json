@@ -1,0 +1,6594 @@
+[
+    {
+        "id": 930289127,
+        "name": "Chevron",
+        "country": "US",
+        "address": "1100 Junipero Serra Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94132",
+        "brand": "Chevron",
+        "phoneNumber": "+14155844565",
+        "geometry": {
+            "coordinates": [
+                -122.4729085,
+                37.7181952
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.399,
+                "updateDate": "2023-11-11T14:26:47",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-11T13:01:45",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.779,
+                "updateDate": "2023-11-11T14:25:34",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484976,
+        "name": "Gas And Shop",
+        "country": "US",
+        "address": "1101 Junipero Serra Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94132",
+        "brand": "Independent",
+        "phoneNumber": "+14153342000",
+        "geometry": {
+            "coordinates": [
+                -122.4720377,
+                37.716195
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.859,
+                "updateDate": "2023-11-09T19:45:04",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T12:58:39",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-09T19:45:04",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.299,
+                "updateDate": "2023-11-09T19:45:04",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930289416,
+        "name": "Ingleside Valero",
+        "country": "US",
+        "address": "1799 Ocean Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "Valero",
+        "phoneNumber": "+14153341353",
+        "geometry": {
+            "coordinates": [
+                -122.4610835,
+                37.7246996
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T12:59:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.699,
+                "updateDate": "2023-11-09T07:17:10",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 462820,
+        "name": "Valero",
+        "country": "US",
+        "address": "101 S Mayfair Ave",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Valero",
+        "phoneNumber": "+16509940181",
+        "geometry": {
+            "coordinates": [
+                -122.4757865,
+                37.7036561
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.759,
+                "updateDate": "2023-11-11T08:49:01",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 4.959,
+                "updateDate": "2023-11-10T16:39:13",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.059,
+                "updateDate": "2023-11-10T16:39:13",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 543854,
+        "name": "Shell",
+        "country": "US",
+        "address": "2399 19Th Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94116",
+        "brand": "Shell",
+        "phoneNumber": "+14157311521",
+        "geometry": {
+            "coordinates": [
+                -122.475975,
+                37.743409
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:00:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.259,
+                "updateDate": "2023-11-11T13:00:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.459,
+                "updateDate": "2023-11-11T13:00:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.659,
+                "updateDate": "2023-11-11T13:00:55",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 420468,
+        "name": "76",
+        "country": "US",
+        "address": "1855 Taraval St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94116",
+        "brand": "76",
+        "phoneNumber": "+14157535897",
+        "geometry": {
+            "coordinates": [
+                -122.4861128,
+                37.7424411
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 07:00-23:00",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.279,
+                "updateDate": "2023-11-11T07:50:40",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.479,
+                "updateDate": "2023-11-10T07:23:15",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.679,
+                "updateDate": "2023-11-11T12:56:55",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 200605,
+        "name": "Speedway Express",
+        "country": "US",
+        "address": "2301 19Th Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94116",
+        "brand": "Speedway",
+        "phoneNumber": "+14157319540",
+        "geometry": {
+            "coordinates": [
+                -122.4760215,
+                37.7446693
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.599,
+                "updateDate": "2023-11-11T12:58:11",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.899,
+                "updateDate": "2023-11-11T12:58:11",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T12:58:11",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.299,
+                "updateDate": "2023-11-11T12:58:11",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930290300,
+        "name": "Chevron",
+        "country": "US",
+        "address": "892 John Daly Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Chevron",
+        "phoneNumber": "+16507559447",
+        "geometry": {
+            "coordinates": [
+                -122.4843421,
+                37.7019236
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T14:14:06",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T12:01:09",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-11T12:01:09",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 321612,
+        "name": "Transbay Valero",
+        "country": "US",
+        "address": "301 Claremont Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94127",
+        "brand": "Valero",
+        "phoneNumber": "+14156645401",
+        "geometry": {
+            "coordinates": [
+                -122.4648277,
+                37.740492
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.199,
+                "updateDate": "2023-11-10T15:31:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-10T14:45:53",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.899,
+                "updateDate": "2023-11-10T14:45:53",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            }
+        ]
+    },
+    {
+        "id": 518184,
+        "name": "Beacon",
+        "country": "US",
+        "address": "800 Ulloa St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94127",
+        "brand": "Beacon",
+        "phoneNumber": "+14156648563",
+        "geometry": {
+            "coordinates": [
+                -122.4652256,
+                37.7408082
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.199,
+                "updateDate": "2023-11-11T12:58:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.399,
+                "updateDate": "2023-11-11T12:58:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.599,
+                "updateDate": "2023-11-11T12:58:55",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930289109,
+        "name": "Chevron",
+        "country": "US",
+        "address": "2998 San Jose Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "Chevron",
+        "phoneNumber": "+14155851146",
+        "geometry": {
+            "coordinates": [
+                -122.4556123,
+                37.7117609
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.399,
+                "updateDate": "2023-11-11T13:01:54",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-11T13:01:54",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.779,
+                "updateDate": "2023-11-10T16:33:48",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 434838,
+        "name": "76",
+        "country": "US",
+        "address": "999 Ocean Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "76",
+        "phoneNumber": "+14155873628",
+        "geometry": {
+            "coordinates": [
+                -122.4529322,
+                37.7229983
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.399,
+                "updateDate": "2023-11-11T13:02:09",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-11T13:02:09",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:02:09",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 562057,
+        "name": "Arco",
+        "country": "US",
+        "address": "151 Southgate Ave",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Arco",
+        "phoneNumber": "+16507554878",
+        "geometry": {
+            "coordinates": [
+                -122.483343,
+                37.6973422
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T12:07:49",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.299,
+                "updateDate": "2023-11-11T12:07:49",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-11T12:07:49",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930296966,
+        "name": "Speedway",
+        "country": "US",
+        "address": "2195 Junipero Serra Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94014",
+        "brand": "Speedway",
+        "phoneNumber": "+16507577477",
+        "geometry": {
+            "coordinates": [
+                -122.4704545,
+                37.6978774
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.899,
+                "updateDate": "2023-11-11T08:15:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.749,
+                "updateDate": "2023-11-11T13:13:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 4.949,
+                "updateDate": "2023-11-11T12:47:19",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.049,
+                "updateDate": "2023-11-11T12:47:19",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 591917,
+        "name": "Speedway Express",
+        "country": "US",
+        "address": "2000 19Th Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94116",
+        "brand": "Speedway",
+        "phoneNumber": "+14155641078",
+        "geometry": {
+            "coordinates": [
+                -122.4759006,
+                37.7502986
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.599,
+                "updateDate": "2023-11-11T12:56:31",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.759,
+                "updateDate": "2023-11-11T12:56:31",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 4.959,
+                "updateDate": "2023-11-11T12:56:31",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.059,
+                "updateDate": "2023-11-11T12:56:31",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 570492,
+        "name": "Ampm",
+        "country": "US",
+        "address": "5898 Mission St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "Arco",
+        "phoneNumber": "+14155842266",
+        "geometry": {
+            "coordinates": [
+                -122.4527262,
+                37.709093
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.099,
+                "updateDate": "2023-11-10T18:22:36",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T09:46:55",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930290166,
+        "name": "Chevron",
+        "country": "US",
+        "address": "1890 19Th Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94122",
+        "brand": "Chevron",
+        "phoneNumber": "+14157312733",
+        "geometry": {
+            "coordinates": [
+                -122.4760863,
+                37.7527035
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.899,
+                "updateDate": "2023-11-11T09:47:21",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.599,
+                "updateDate": "2023-11-11T14:11:47",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.499,
+                "updateDate": "2023-11-11T09:47:21",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.699,
+                "updateDate": "2023-11-11T09:47:21",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 462817,
+        "name": "Daly City Clairmont",
+        "country": "US",
+        "address": "6989 Mission St",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94014",
+        "brand": "Valero",
+        "phoneNumber": "+16509912725",
+        "geometry": {
+            "coordinates": [
+                -122.4643603,
+                37.6959829
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.879,
+                "updateDate": "2023-11-11T14:38:39",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.079,
+                "updateDate": "2023-11-11T00:33:05",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.179,
+                "updateDate": "2023-11-11T12:50:21",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 542915,
+        "name": "Valero",
+        "country": "US",
+        "address": "2428 Junipero Serra Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Valero",
+        "phoneNumber": "+16509921285",
+        "geometry": {
+            "coordinates": [
+                -122.4712805,
+                37.6927178
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.499,
+                "updateDate": "2023-11-11T09:47:21",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.899,
+                "updateDate": "2023-11-11T09:47:21",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T09:47:21",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 4.999,
+                "updateDate": "2023-11-10T14:12:32",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484966,
+        "name": "76",
+        "country": "US",
+        "address": "1700 Noriega St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94122",
+        "brand": "76",
+        "phoneNumber": "+14157539635",
+        "geometry": {
+            "coordinates": [
+                -122.4821684,
+                37.754202
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.299,
+                "updateDate": "2023-11-11T13:01:34",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.499,
+                "updateDate": "2023-11-11T09:50:32",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.699,
+                "updateDate": "2023-11-11T09:50:32",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 306138,
+        "name": "Best Auto Care",
+        "country": "US",
+        "address": "2099 San Jose Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "Independent",
+        "phoneNumber": "+14153347585",
+        "geometry": {
+            "coordinates": [
+                -122.4444223,
+                37.7231293
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-09T17:41:10",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T09:48:52",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-11T09:48:52",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": []
+    },
+    {
+        "id": 929626297,
+        "name": "Twin Peaks Auto Care",
+        "country": "US",
+        "address": "598 Portola Dr",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94131",
+        "brand": "Independent",
+        "phoneNumber": "+16503447354",
+        "geometry": {
+            "coordinates": [
+                -122.4518675,
+                37.7458093
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.099,
+                "updateDate": "2023-11-11T14:04:04",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.299,
+                "updateDate": "2023-11-11T13:00:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.499,
+                "updateDate": "2023-11-11T13:00:46",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 561768,
+        "name": "Arco",
+        "country": "US",
+        "address": "295 Washington St",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Arco",
+        "phoneNumber": "+16507564040",
+        "geometry": {
+            "coordinates": [
+                -122.472038,
+                37.6876245
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T14:35:37",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T12:07:32",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-11T12:07:32",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484952,
+        "name": "Geneva Shell",
+        "country": "US",
+        "address": "2200 Alemany Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "Shell",
+        "phoneNumber": "+14153378343",
+        "geometry": {
+            "coordinates": [
+                -122.4427927,
+                37.7177951
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:01:30",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.259,
+                "updateDate": "2023-11-11T13:01:30",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.459,
+                "updateDate": "2023-11-11T13:01:30",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.659,
+                "updateDate": "2023-11-11T13:01:30",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 462818,
+        "name": "Loop",
+        "country": "US",
+        "address": "950 Hillside Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94014",
+        "brand": "Shell",
+        "phoneNumber": "+16507552108",
+        "geometry": {
+            "coordinates": [
+                -122.4616103,
+                37.6900438
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T15:16:58",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.099,
+                "updateDate": "2023-11-11T15:16:58",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.299,
+                "updateDate": "2023-11-11T15:16:58",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.699,
+                "updateDate": "2023-11-11T00:32:29",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 452679,
+        "name": "Sullivan Valero And Food Mart",
+        "country": "US",
+        "address": "1690 Sullivan Ave",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Valero",
+        "phoneNumber": "+16509924838",
+        "geometry": {
+            "coordinates": [
+                -122.4724752,
+                37.6862839
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.699,
+                "updateDate": "2023-11-11T14:26:34",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T14:56:22",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 4.979,
+                "updateDate": "2023-11-11T12:07:24",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-10T19:05:31",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 234966,
+        "name": "76",
+        "country": "US",
+        "address": "3001 Junipero Serra Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94014",
+        "brand": "76",
+        "phoneNumber": "+16509925550",
+        "geometry": {
+            "coordinates": [
+                -122.4703229,
+                37.6864688
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.599,
+                "updateDate": "2023-11-11T14:56:45",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-11T09:50:54",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.999,
+                "updateDate": "2023-11-11T10:24:10",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 480364,
+        "name": "Circle K Martco",
+        "country": "US",
+        "address": "5098 Mission St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "Circle K",
+        "phoneNumber": "+14153379887",
+        "geometry": {
+            "coordinates": [
+                -122.4410316,
+                37.7169521
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T12:58:27",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T12:58:27",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-11T12:58:27",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 234961,
+        "name": "Chevron",
+        "country": "US",
+        "address": "1401 19Th Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94122",
+        "brand": "Chevron",
+        "phoneNumber": "+14156813860",
+        "geometry": {
+            "coordinates": [
+                -122.4772466,
+                37.7614491
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.599,
+                "updateDate": "2023-11-11T05:18:18",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T14:04:44",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-09T21:59:51",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-10T11:32:19",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            }
+        ]
+    },
+    {
+        "id": 484965,
+        "name": "Valero",
+        "country": "US",
+        "address": "1400 19Th Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94122",
+        "brand": "Valero",
+        "phoneNumber": "+14152135563",
+        "geometry": {
+            "coordinates": [
+                -122.476759,
+                37.7614905
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T12:58:18",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T12:58:18",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.299,
+                "updateDate": "2023-11-11T12:58:18",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 268450,
+        "name": "76",
+        "country": "US",
+        "address": "3601 Lawton St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94122",
+        "brand": "76",
+        "phoneNumber": "+14156655525",
+        "geometry": {
+            "coordinates": [
+                -122.5016745,
+                37.7566936
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.989,
+                "updateDate": "2023-11-11T13:24:48",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-11T10:20:24",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 200634,
+        "name": "Chevron",
+        "country": "US",
+        "address": "1288 19Th Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94122",
+        "brand": "Chevron",
+        "phoneNumber": "+14157311044",
+        "geometry": {
+            "coordinates": [
+                -122.4769102,
+                37.7638351
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-09T09:11:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.399,
+                "updateDate": "2023-11-10T20:38:12",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-09T09:11:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.779,
+                "updateDate": "2023-11-11T12:44:52",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484951,
+        "name": "76",
+        "country": "US",
+        "address": "1798 Alemany Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "76",
+        "phoneNumber": "+14155844719",
+        "geometry": {
+            "coordinates": [
+                -122.437711,
+                37.7239569
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.399,
+                "updateDate": "2023-11-11T13:02:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-11T13:02:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:02:46",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 599892,
+        "name": "Skyline Auto Service",
+        "country": "US",
+        "address": "505 Skyline Dr",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Valero",
+        "phoneNumber": "na",
+        "geometry": {
+            "coordinates": [
+                -122.4900069,
+                37.683172
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [],
+        "services": []
+    },
+    {
+        "id": 930285201,
+        "name": "Hillside Gas",
+        "country": "US",
+        "address": "1216 Hillside Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94014",
+        "brand": "Exxon",
+        "phoneNumber": "+16507314920",
+        "geometry": {
+            "coordinates": [
+                -122.4597655,
+                37.6858506
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.499,
+                "updateDate": "2023-11-11T00:32:14",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T15:16:32",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T15:16:32",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.299,
+                "updateDate": "2023-11-11T15:16:32",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484963,
+        "name": "Loop",
+        "country": "US",
+        "address": "1200 19Th Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94122",
+        "brand": "Shell",
+        "phoneNumber": "+14156612276",
+        "geometry": {
+            "coordinates": [
+                -122.477038,
+                37.765136
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-10T07:31:36",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.259,
+                "updateDate": "2023-11-11T13:38:45",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.469,
+                "updateDate": "2023-11-10T12:30:16",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.659,
+                "updateDate": "2023-11-10T21:02:33",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Public WC"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 561985,
+        "name": "Arco",
+        "country": "US",
+        "address": "1200 Geneva Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "Arco",
+        "phoneNumber": "+14155856988",
+        "geometry": {
+            "coordinates": [
+                -122.4359919,
+                37.7138822
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.099,
+                "updateDate": "2023-11-11T13:46:50",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.299,
+                "updateDate": "2023-11-11T13:00:22",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.499,
+                "updateDate": "2023-11-11T13:00:22",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484968,
+        "name": "Shell",
+        "country": "US",
+        "address": "601 Lincoln Way",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94122",
+        "brand": "Shell",
+        "phoneNumber": "+14155046692",
+        "geometry": {
+            "coordinates": [
+                -122.464514,
+                37.765748
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.259,
+                "updateDate": "2023-11-11T13:01:02",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.459,
+                "updateDate": "2023-11-11T13:01:02",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.659,
+                "updateDate": "2023-11-11T13:01:02",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Public WC"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 484953,
+        "name": "Shell",
+        "country": "US",
+        "address": "4298 Mission St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "Shell",
+        "phoneNumber": "+14153342610",
+        "geometry": {
+            "coordinates": [
+                -122.4313316,
+                37.7290445
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.549,
+                "updateDate": "2023-11-10T15:40:50",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.749,
+                "updateDate": "2023-11-10T17:53:57",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.949,
+                "updateDate": "2023-11-10T19:55:23",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 484948,
+        "name": "Nk Service",
+        "country": "US",
+        "address": "4199 Mission St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94112",
+        "brand": "Independent",
+        "phoneNumber": "+14154699886",
+        "geometry": {
+            "coordinates": [
+                -122.4296471,
+                37.7301553
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.599,
+                "updateDate": "2023-11-11T12:59:09",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T12:59:09",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.399,
+                "updateDate": "2023-11-11T13:06:23",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-11T12:59:09",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 292750,
+        "name": "76",
+        "country": "US",
+        "address": "1200 La Playa St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94122",
+        "brand": "76",
+        "phoneNumber": "+14156651902",
+        "geometry": {
+            "coordinates": [
+                -122.5091575,
+                37.7638767
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.099,
+                "updateDate": "2023-11-11T09:54:07",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 544087,
+        "name": "Triton Gas",
+        "country": "US",
+        "address": "4698 Callan Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Mobil",
+        "phoneNumber": "+16507550200",
+        "geometry": {
+            "coordinates": [
+                -122.4751739,
+                37.6690394
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.759,
+                "updateDate": "2023-11-11T00:07:33",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 4.919,
+                "updateDate": "2023-11-11T14:43:51",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.019,
+                "updateDate": "2023-11-11T08:55:11",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 592756,
+        "name": "Speedway",
+        "country": "US",
+        "address": "501 Serramonte Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Speedway",
+        "phoneNumber": "+16507568166",
+        "geometry": {
+            "coordinates": [
+                -122.4693965,
+                37.6689012
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.649,
+                "updateDate": "2023-11-11T13:46:38",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.699,
+                "updateDate": "2023-11-11T13:46:38",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 4.899,
+                "updateDate": "2023-11-11T13:46:38",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 4.999,
+                "updateDate": "2023-11-11T13:46:38",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930288888,
+        "name": "Chevron",
+        "country": "US",
+        "address": "6000 Geary Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94121",
+        "brand": "Chevron",
+        "phoneNumber": "+14157500111",
+        "geometry": {
+            "coordinates": [
+                -122.4841082,
+                37.7804053
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-11T12:00:56",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.699,
+                "updateDate": "2023-11-11T07:59:59",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.879,
+                "updateDate": "2023-11-09T14:20:11",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 522843,
+        "name": "Shell",
+        "country": "US",
+        "address": "3550 Mission St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "Shell",
+        "phoneNumber": "+14156483551",
+        "geometry": {
+            "coordinates": [
+                -122.4237077,
+                37.7402714
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-10T07:52:41",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.299,
+                "updateDate": "2023-11-11T14:20:12",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.509,
+                "updateDate": "2023-11-10T14:14:25",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.699,
+                "updateDate": "2023-11-10T07:06:40",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 256571,
+        "name": "7-Eleven",
+        "country": "US",
+        "address": "4850 Geary Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94118",
+        "brand": "76",
+        "phoneNumber": "+14152215164",
+        "geometry": {
+            "coordinates": [
+                -122.4715588,
+                37.7809668
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.959,
+                "updateDate": "2023-11-11T12:59:20",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T13:21:10",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T12:59:20",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.299,
+                "updateDate": "2023-11-11T12:59:20",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484962,
+        "name": "Marathon",
+        "country": "US",
+        "address": "4501 Geary Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94118",
+        "brand": "Marathon",
+        "phoneNumber": "+14152210424",
+        "geometry": {
+            "coordinates": [
+                -122.4676987,
+                37.7806589
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.899,
+                "updateDate": "2023-11-11T14:18:34",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T14:18:34",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.259,
+                "updateDate": "2023-11-11T14:18:34",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 524561,
+        "name": "Loop",
+        "country": "US",
+        "address": "398 Gellert Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Shell",
+        "phoneNumber": "+16509943324",
+        "geometry": {
+            "coordinates": [
+                -122.4693505,
+                37.6649678
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:20:18",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.899,
+                "updateDate": "2023-11-11T14:54:02",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T14:14:42",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.309,
+                "updateDate": "2023-11-11T10:22:43",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 570495,
+        "name": "Rc Gas At Market And Castro",
+        "country": "US",
+        "address": "376 Castro St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94114",
+        "brand": "Independent",
+        "phoneNumber": "+14155521188",
+        "geometry": {
+            "coordinates": [
+                -122.4354246,
+                37.7629642
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.199,
+                "updateDate": "2023-11-11T14:36:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-11T12:59:27",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.999,
+                "updateDate": "2023-11-11T12:59:27",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Domestic gas sale point"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 265499,
+        "name": "Chevron",
+        "country": "US",
+        "address": "2399 Market St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94114",
+        "brand": "Chevron",
+        "phoneNumber": "+14156212570",
+        "geometry": {
+            "coordinates": [
+                -122.4346687,
+                37.7626778
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.739,
+                "updateDate": "2023-11-11T10:49:15",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.499,
+                "updateDate": "2023-11-11T13:00:52",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.699,
+                "updateDate": "2023-11-11T13:00:52",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": []
+    },
+    {
+        "id": 253795,
+        "name": "76",
+        "country": "US",
+        "address": "7355 Geary Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94121",
+        "brand": "76",
+        "phoneNumber": "+14156680604",
+        "geometry": {
+            "coordinates": [
+                -122.4984606,
+                37.7792981
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Fri: 06:30-21:00, Sat: 07:30-21:00",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.579,
+                "updateDate": "2023-11-11T10:29:23",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930289749,
+        "name": "Union 76",
+        "country": "US",
+        "address": "3400 Mission St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "76",
+        "phoneNumber": "+14156957710",
+        "geometry": {
+            "coordinates": [
+                -122.4223948,
+                37.7421665
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.399,
+                "updateDate": "2023-11-11T13:02:53",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-11T13:02:53",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:02:53",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930289350,
+        "name": "Chevron",
+        "country": "US",
+        "address": "1698 Fell St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94117",
+        "brand": "Chevron",
+        "phoneNumber": "+14159218188",
+        "geometry": {
+            "coordinates": [
+                -122.4456211,
+                37.7732056
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.899,
+                "updateDate": "2023-11-11T13:03:57",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.599,
+                "updateDate": "2023-11-11T13:15:06",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:03:57",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.899,
+                "updateDate": "2023-11-11T13:03:57",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 434733,
+        "name": "Union 76",
+        "country": "US",
+        "address": "301 25Th Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94121",
+        "brand": "76",
+        "phoneNumber": "+14156684315",
+        "geometry": {
+            "coordinates": [
+                -122.4852192,
+                37.7836281
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.389,
+                "updateDate": "2023-11-11T13:03:32",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:03:32",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.989,
+                "updateDate": "2023-11-11T13:03:32",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 265629,
+        "name": "Chevron",
+        "country": "US",
+        "address": "410 Hickey Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Chevron",
+        "phoneNumber": "+16509919100",
+        "geometry": {
+            "coordinates": [
+                -122.4645465,
+                37.6636966
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.099,
+                "updateDate": "2023-11-11T06:32:11",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T11:10:58",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T11:10:58",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.279,
+                "updateDate": "2023-11-11T13:43:49",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 462823,
+        "name": "Loop",
+        "country": "US",
+        "address": "390 Hickey Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94015",
+        "brand": "Shell",
+        "phoneNumber": "+16509941755",
+        "geometry": {
+            "coordinates": [
+                -122.4637854,
+                37.6636633
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T11:11:20",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T11:11:20",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T11:11:20",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.299,
+                "updateDate": "2023-11-11T14:00:18",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Public WC"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 930289052,
+        "name": "Chevron",
+        "country": "US",
+        "address": "3675 Geary Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94118",
+        "brand": "Chevron",
+        "phoneNumber": "+14153879961",
+        "geometry": {
+            "coordinates": [
+                -122.4585426,
+                37.7809425
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.699,
+                "updateDate": "2023-11-11T13:03:22",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.399,
+                "updateDate": "2023-11-11T15:12:17",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-11T13:03:22",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.779,
+                "updateDate": "2023-11-11T13:03:22",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 483838,
+        "name": "Chevron",
+        "country": "US",
+        "address": "110 Hickey Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Chevron",
+        "phoneNumber": "+16507551591",
+        "geometry": {
+            "coordinates": [
+                -122.4522681,
+                37.6666316
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T12:58:04",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.899,
+                "updateDate": "2023-11-11T13:30:15",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T12:58:04",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.279,
+                "updateDate": "2023-11-11T12:58:04",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 202504,
+        "name": "7-Eleven",
+        "country": "US",
+        "address": "700 Hickey Blvd",
+        "city": "Pacifica",
+        "state": "CA",
+        "zipCode": "94044",
+        "brand": "7-Eleven",
+        "phoneNumber": "+16503590632",
+        "geometry": {
+            "coordinates": [
+                -122.4775324,
+                37.6597712
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.699,
+                "updateDate": "2023-11-11T08:15:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.749,
+                "updateDate": "2023-11-11T11:52:42",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.049,
+                "updateDate": "2023-11-11T08:15:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.249,
+                "updateDate": "2023-11-11T08:15:46",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 544444,
+        "name": "Hickey Gateway Shell",
+        "country": "US",
+        "address": "679 Hickey Blvd",
+        "city": "Pacifica",
+        "state": "CA",
+        "zipCode": "94044",
+        "brand": "Shell",
+        "phoneNumber": "+16503591959",
+        "geometry": {
+            "coordinates": [
+                -122.4784753,
+                37.659529
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-09T19:42:39",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-09T19:42:39",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 4.909,
+                "updateDate": "2023-11-11T11:24:43",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 484960,
+        "name": "Shell Car Wash",
+        "country": "US",
+        "address": "3035 Geary Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94118",
+        "brand": "Shell",
+        "phoneNumber": "+14157524171",
+        "geometry": {
+            "coordinates": [
+                -122.4518482,
+                37.7815593
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.399,
+                "updateDate": "2023-11-11T13:01:19",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.389,
+                "updateDate": "2023-11-11T09:38:49",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.679,
+                "updateDate": "2023-11-11T13:01:19",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.779,
+                "updateDate": "2023-11-11T13:01:19",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 420301,
+        "name": "Union 76",
+        "country": "US",
+        "address": "1298 Valencia St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "76",
+        "phoneNumber": "+14158245622",
+        "geometry": {
+            "coordinates": [
+                -122.4209538,
+                37.7523302
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Wed: 07:00-22:00, Thu: 07:00-24:00, Fri-Sun: 07:00-22:00",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T12:59:37",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.499,
+                "updateDate": "2023-11-11T12:59:37",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.989,
+                "updateDate": "2023-11-11T12:59:37",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 412051,
+        "name": "76",
+        "country": "US",
+        "address": "443 Divisadero St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94117",
+        "brand": "76",
+        "phoneNumber": "+14155526665",
+        "geometry": {
+            "coordinates": [
+                -122.437817,
+                37.7737809
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.959,
+                "updateDate": "2023-11-11T13:01:10",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.259,
+                "updateDate": "2023-11-11T13:01:10",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.459,
+                "updateDate": "2023-11-11T13:01:10",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.759,
+                "updateDate": "2023-11-11T13:01:10",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 561987,
+        "name": "Arco",
+        "country": "US",
+        "address": "1175 Fell St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94117",
+        "brand": "Arco",
+        "phoneNumber": "+14154313515",
+        "geometry": {
+            "coordinates": [
+                -122.4373841,
+                37.7738772
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.919,
+                "updateDate": "2023-11-11T13:41:31",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484961,
+        "name": "Exxon",
+        "country": "US",
+        "address": "3898 California St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94118",
+        "brand": "Exxon",
+        "phoneNumber": "+14157520646",
+        "geometry": {
+            "coordinates": [
+                -122.4588755,
+                37.7858969
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 07:00-22:00",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.799,
+                "updateDate": "2023-11-10T16:41:33",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 4.999,
+                "updateDate": "2023-11-11T12:56:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.199,
+                "updateDate": "2023-11-11T12:56:55",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Public WC"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 598116,
+        "name": "Costco",
+        "country": "US",
+        "address": "1600 El Camino Real",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Costco",
+        "phoneNumber": "+16507573000",
+        "geometry": {
+            "coordinates": [
+                -122.4467205,
+                37.6652763
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Fri: 06:00-21:30, Sat-Sun: 06:00-20:00",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.599,
+                "updateDate": "2023-11-11T15:03:28",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 4.899,
+                "updateDate": "2023-11-11T15:03:28",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 41032,
+        "name": "Speedway Express",
+        "country": "US",
+        "address": "3300 Cesar Chavez",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "Speedway",
+        "phoneNumber": "+14158261025",
+        "geometry": {
+            "coordinates": [
+                -122.4161983,
+                37.7485441
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.899,
+                "updateDate": "2023-11-09T07:12:11",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-09T07:12:11",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T06:06:38",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.199,
+                "updateDate": "2023-11-11T12:57:12",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484947,
+        "name": "Guerrero Shell",
+        "country": "US",
+        "address": "400 Guerrero St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "Shell",
+        "phoneNumber": "+14155520707",
+        "geometry": {
+            "coordinates": [
+                -122.4243105,
+                37.764493
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.699,
+                "updateDate": "2023-11-10T16:32:33",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-11T05:43:57",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.699,
+                "updateDate": "2023-11-11T05:43:57",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.899,
+                "updateDate": "2023-11-11T05:43:57",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 480367,
+        "name": "Pacific Shell",
+        "country": "US",
+        "address": "95 Bill Drake Way",
+        "city": "Pacifica",
+        "state": "CA",
+        "zipCode": "94044",
+        "brand": "Shell",
+        "phoneNumber": "+16503591373",
+        "geometry": {
+            "coordinates": [
+                -122.4909841,
+                37.6513066
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.199,
+                "updateDate": "2023-11-11T14:30:28",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.399,
+                "updateDate": "2023-11-11T07:24:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.599,
+                "updateDate": "2023-11-09T19:43:34",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 522849,
+        "name": "Shell",
+        "country": "US",
+        "address": "2380 San Bruno Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94134",
+        "brand": "Shell",
+        "phoneNumber": "+14154683332",
+        "geometry": {
+            "coordinates": [
+                -122.4059792,
+                37.7325046
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.299,
+                "updateDate": "2023-11-10T09:06:43",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.759,
+                "updateDate": "2023-11-11T14:56:28",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.959,
+                "updateDate": "2023-11-11T09:50:22",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.059,
+                "updateDate": "2023-11-10T23:11:00",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 570720,
+        "name": "Silver Gas",
+        "country": "US",
+        "address": "2400 San Bruno Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94134",
+        "brand": "76",
+        "phoneNumber": "+14157156817",
+        "geometry": {
+            "coordinates": [
+                -122.4058025,
+                37.7322243
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.999,
+                "updateDate": "2023-11-11T09:50:02",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.699,
+                "updateDate": "2023-11-11T11:21:01",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.499,
+                "updateDate": "2023-11-11T09:50:02",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.099,
+                "updateDate": "2023-11-11T11:23:08",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 299210,
+        "name": "Callan Blvd Beacon",
+        "country": "US",
+        "address": "3964 Callan Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Valero",
+        "phoneNumber": "+16509672253",
+        "geometry": {
+            "coordinates": [
+                -122.4685888,
+                37.6501568
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-10T15:32:04",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-11T10:29:57",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 929712139,
+        "name": "7-Eleven",
+        "country": "US",
+        "address": "2700 Bayshore Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94014",
+        "brand": "7-Eleven",
+        "phoneNumber": "+14154676984",
+        "geometry": {
+            "coordinates": [
+                -122.4072358,
+                37.7051164
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T15:05:43",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.099,
+                "updateDate": "2023-11-11T15:06:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.399,
+                "updateDate": "2023-11-11T08:15:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.599,
+                "updateDate": "2023-11-11T11:24:47",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 591916,
+        "name": "Mission Gas And Shop",
+        "country": "US",
+        "address": "599 S Van Ness Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "Independent",
+        "phoneNumber": "+14158636835",
+        "geometry": {
+            "coordinates": [
+                -122.4170849,
+                37.7637706
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.759,
+                "updateDate": "2023-11-11T05:48:20",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.899,
+                "updateDate": "2023-11-10T03:29:01",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T05:48:20",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930290562,
+        "name": "Chevron",
+        "country": "US",
+        "address": "2690 Bayshore Blvd",
+        "city": "Daly City",
+        "state": "CA",
+        "zipCode": "94014",
+        "brand": "Chevron",
+        "phoneNumber": "+14153309888",
+        "geometry": {
+            "coordinates": [
+                -122.4068867,
+                37.7056909
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.199,
+                "updateDate": "2023-11-11T14:59:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.399,
+                "updateDate": "2023-11-10T15:46:31",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.599,
+                "updateDate": "2023-11-10T15:46:31",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 562052,
+        "name": "Arco",
+        "country": "US",
+        "address": "1798 Mission St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94103",
+        "brand": "Arco",
+        "phoneNumber": "+14154371947",
+        "geometry": {
+            "coordinates": [
+                -122.4203171,
+                37.7684839
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.859,
+                "updateDate": "2023-11-11T14:53:03",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.159,
+                "updateDate": "2023-11-11T05:44:18",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.259,
+                "updateDate": "2023-11-11T05:44:18",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930289664,
+        "name": "Chevron",
+        "country": "US",
+        "address": "501 S Van Ness Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "Chevron",
+        "phoneNumber": "+14158636347",
+        "geometry": {
+            "coordinates": [
+                -122.4172497,
+                37.7649997
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.059,
+                "updateDate": "2023-11-11T06:18:51",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.199,
+                "updateDate": "2023-11-11T14:48:06",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.399,
+                "updateDate": "2023-11-11T14:52:18",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.599,
+                "updateDate": "2023-11-11T14:45:46",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 930285205,
+        "name": "Valero",
+        "country": "US",
+        "address": "498 Palmetto Ave",
+        "city": "Pacifica",
+        "state": "CA",
+        "zipCode": "94044",
+        "brand": "Valero",
+        "phoneNumber": "+16503554764",
+        "geometry": {
+            "coordinates": [
+                -122.4912439,
+                37.6495231
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.099,
+                "updateDate": "2023-11-09T22:26:12",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.299,
+                "updateDate": "2023-11-09T19:43:37",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.499,
+                "updateDate": "2023-11-09T19:43:37",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            }
+        ]
+    },
+    {
+        "id": 616249,
+        "name": "Centra Gas San Francisco",
+        "country": "US",
+        "address": "2901 Bryant St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "Mobil",
+        "phoneNumber": "+14156483669",
+        "geometry": {
+            "coordinates": [
+                -122.4084803,
+                37.7481917
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.599,
+                "updateDate": "2023-11-11T10:03:03",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-11T06:09:52",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.999,
+                "updateDate": "2023-11-11T06:09:52",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": []
+    },
+    {
+        "id": 420808,
+        "name": "76",
+        "country": "US",
+        "address": "975 Bayshore Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94124",
+        "brand": "76",
+        "phoneNumber": "+14154679786",
+        "geometry": {
+            "coordinates": [
+                -122.4039747,
+                37.7320958
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.979,
+                "updateDate": "2023-11-11T09:32:23",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": []
+    },
+    {
+        "id": 484972,
+        "name": "Shell",
+        "country": "US",
+        "address": "319 Bayshore Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94124",
+        "brand": "Shell",
+        "phoneNumber": "+14158244855",
+        "geometry": {
+            "coordinates": [
+                -122.4052556,
+                37.7426258
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.599,
+                "updateDate": "2023-11-10T17:01:10",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-10T09:07:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.999,
+                "updateDate": "2023-11-10T09:07:00",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Public WC"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 591918,
+        "name": "Home Gas",
+        "country": "US",
+        "address": "2990 San Bruno Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94134",
+        "brand": "Independent",
+        "phoneNumber": "+14154675078",
+        "geometry": {
+            "coordinates": [
+                -122.4023988,
+                37.7241933
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.899,
+                "updateDate": "2023-11-10T22:43:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.579,
+                "updateDate": "2023-11-10T22:43:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.779,
+                "updateDate": "2023-11-10T22:43:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.979,
+                "updateDate": "2023-11-10T22:43:00",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            }
+        ]
+    },
+    {
+        "id": 561988,
+        "name": "Arco",
+        "country": "US",
+        "address": "2190 Carroll Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94124",
+        "brand": "Arco",
+        "phoneNumber": "+14154680446",
+        "geometry": {
+            "coordinates": [
+                -122.402738,
+                37.7304998
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.859,
+                "updateDate": "2023-11-11T12:57:49",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.159,
+                "updateDate": "2023-11-09T10:32:31",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.259,
+                "updateDate": "2023-11-11T09:51:13",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 518124,
+        "name": "Allstars",
+        "country": "US",
+        "address": "2831 Cesar Chavez",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "Independent",
+        "phoneNumber": "+14156434606",
+        "geometry": {
+            "coordinates": [
+                -122.406429,
+                37.7486881
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.699,
+                "updateDate": "2023-11-11T14:15:02",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T12:56:53",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.299,
+                "updateDate": "2023-11-11T12:56:53",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "E85",
+                "price": 3.999,
+                "updateDate": "2023-11-11T12:56:53",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 517866,
+        "name": "Valero 7959",
+        "country": "US",
+        "address": "2985 San Bruno Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94134",
+        "brand": "Valero",
+        "phoneNumber": "+14154676077",
+        "geometry": {
+            "coordinates": [
+                -122.401855,
+                37.7240281
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.599,
+                "updateDate": "2023-11-11T13:01:01",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.099,
+                "updateDate": "2023-11-11T13:01:01",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-11T07:33:10",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.999,
+                "updateDate": "2023-11-09T04:31:08",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 201511,
+        "name": "Chevron",
+        "country": "US",
+        "address": "1601 Mission St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94103",
+        "brand": "Chevron",
+        "phoneNumber": "+14155589274",
+        "geometry": {
+            "coordinates": [
+                -122.4187192,
+                37.7718771
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-11T12:38:58",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.999,
+                "updateDate": "2023-11-10T09:37:05",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 201794,
+        "name": "Chevron",
+        "country": "US",
+        "address": "100 Milagra Dr",
+        "city": "Pacifica",
+        "state": "CA",
+        "zipCode": "94044",
+        "brand": "Chevron",
+        "phoneNumber": "+16503598486",
+        "geometry": {
+            "coordinates": [
+                -122.4909327,
+                37.6459217
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.999,
+                "updateDate": "2023-11-09T06:26:28",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.199,
+                "updateDate": "2023-11-11T11:44:05",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.399,
+                "updateDate": "2023-11-10T09:10:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.599,
+                "updateDate": "2023-11-10T06:31:35",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484957,
+        "name": "California Shell",
+        "country": "US",
+        "address": "2501 California St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94115",
+        "brand": "Shell",
+        "phoneNumber": "+14155676512",
+        "geometry": {
+            "coordinates": [
+                -122.4357792,
+                37.7884261
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:21:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.359,
+                "updateDate": "2023-11-11T13:21:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.559,
+                "updateDate": "2023-11-11T11:45:45",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.759,
+                "updateDate": "2023-11-11T10:12:01",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Public WC"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 417430,
+        "name": "Chevron",
+        "country": "US",
+        "address": "2500 California St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94115",
+        "brand": "Chevron",
+        "phoneNumber": "+14155671136",
+        "geometry": {
+            "coordinates": [
+                -122.4358379,
+                37.7888635
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.739,
+                "updateDate": "2023-11-11T13:19:56",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.999,
+                "updateDate": "2023-11-11T13:19:56",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.299,
+                "updateDate": "2023-11-11T13:19:56",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930289088,
+        "name": "Chevron",
+        "country": "US",
+        "address": "101 Bayshore Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94124",
+        "brand": "Chevron",
+        "phoneNumber": "+14158267290",
+        "geometry": {
+            "coordinates": [
+                -122.4034761,
+                37.7469945
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.599,
+                "updateDate": "2023-11-11T15:08:17",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.599,
+                "updateDate": "2023-11-11T14:25:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-11T09:48:58",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.999,
+                "updateDate": "2023-11-11T10:52:41",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484929,
+        "name": "Shell",
+        "country": "US",
+        "address": "800 Turk St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94102",
+        "brand": "Shell",
+        "phoneNumber": "+14154404298",
+        "geometry": {
+            "coordinates": [
+                -122.422712,
+                37.781907
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.399,
+                "updateDate": "2023-11-11T15:12:04",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-11T14:10:25",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.799,
+                "updateDate": "2023-11-11T14:10:25",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 265502,
+        "name": "Synergy",
+        "country": "US",
+        "address": "1 Westborough Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Marathon",
+        "phoneNumber": "+16509525807",
+        "geometry": {
+            "coordinates": [
+                -122.4344206,
+                37.654708
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-10T18:18:36",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.899,
+                "updateDate": "2023-11-11T07:20:57",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-11T09:28:07",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.299,
+                "updateDate": "2023-11-10T18:18:36",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930285215,
+        "name": "76",
+        "country": "US",
+        "address": "401 Potrero Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94110",
+        "brand": "76",
+        "phoneNumber": "+14158636043",
+        "geometry": {
+            "coordinates": [
+                -122.4070824,
+                37.7643926
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.699,
+                "updateDate": "2023-11-11T12:10:04",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.899,
+                "updateDate": "2023-11-11T06:42:33",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.099,
+                "updateDate": "2023-11-11T07:39:38",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 509502,
+        "name": "Valero 7262",
+        "country": "US",
+        "address": "2601 Lombard St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94123",
+        "brand": "Valero",
+        "phoneNumber": "+14159211132",
+        "geometry": {
+            "coordinates": [
+                -122.444563,
+                37.7985863
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.299,
+                "updateDate": "2023-11-11T13:02:02",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.499,
+                "updateDate": "2023-11-11T13:02:02",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.699,
+                "updateDate": "2023-11-11T13:02:02",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 454357,
+        "name": "Fuel 24 7",
+        "country": "US",
+        "address": "2296 Westborough Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Independent",
+        "phoneNumber": "+16505895656",
+        "geometry": {
+            "coordinates": [
+                -122.4526693,
+                37.6438415
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.749,
+                "updateDate": "2023-11-11T06:31:53",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.849,
+                "updateDate": "2023-11-11T13:08:03",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.049,
+                "updateDate": "2023-11-10T12:27:03",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.249,
+                "updateDate": "2023-11-11T12:36:34",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 561986,
+        "name": "Arco",
+        "country": "US",
+        "address": "2300 Westborough Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Arco",
+        "phoneNumber": "+16509520691",
+        "geometry": {
+            "coordinates": [
+                -122.4534794,
+                37.6434153
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.949,
+                "updateDate": "2023-11-11T11:05:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.249,
+                "updateDate": "2023-11-09T19:44:26",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 251389,
+        "name": "Union 76",
+        "country": "US",
+        "address": "2498 Lombard St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94123",
+        "brand": "76",
+        "phoneNumber": "+14159314040",
+        "geometry": {
+            "coordinates": [
+                -122.4424261,
+                37.7992809
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.139,
+                "updateDate": "2023-11-11T13:03:12",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.539,
+                "updateDate": "2023-11-11T13:03:12",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.739,
+                "updateDate": "2023-11-11T13:03:12",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.939,
+                "updateDate": "2023-11-11T13:03:12",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 522845,
+        "name": "Shell",
+        "country": "US",
+        "address": "1201 Harrison St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94103",
+        "brand": "Shell",
+        "phoneNumber": "+14156215542",
+        "geometry": {
+            "coordinates": [
+                -122.4084635,
+                37.7734071
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T14:03:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.359,
+                "updateDate": "2023-11-11T14:03:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.559,
+                "updateDate": "2023-11-11T14:03:00",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.769,
+                "updateDate": "2023-11-11T14:34:40",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 930288886,
+        "name": "Extra Mile",
+        "country": "US",
+        "address": "1501 Van Ness Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94109",
+        "brand": "Chevron",
+        "phoneNumber": "+14154413518",
+        "geometry": {
+            "coordinates": [
+                -122.4226118,
+                37.7896274
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.599,
+                "updateDate": "2023-11-09T14:59:36",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-11T14:20:11",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.699,
+                "updateDate": "2023-11-11T14:31:47",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.879,
+                "updateDate": "2023-11-11T13:35:46",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 930290129,
+        "name": "Camino Petroleum",
+        "country": "US",
+        "address": "698 El Camino Real",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Independent",
+        "phoneNumber": "+16505894365",
+        "geometry": {
+            "coordinates": [
+                -122.430067,
+                37.6500864
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-10T17:07:25",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.899,
+                "updateDate": "2023-11-11T14:04:55",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.099,
+                "updateDate": "2023-11-10T17:07:25",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.299,
+                "updateDate": "2023-11-10T17:07:25",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": []
+    },
+    {
+        "id": 484969,
+        "name": "Shell",
+        "country": "US",
+        "address": "1800 Lombard St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94123",
+        "brand": "Shell",
+        "phoneNumber": "+14153468063",
+        "geometry": {
+            "coordinates": [
+                -122.431447,
+                37.800695
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T13:02:15",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.359,
+                "updateDate": "2023-11-11T14:31:41",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.559,
+                "updateDate": "2023-11-11T13:02:15",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.759,
+                "updateDate": "2023-11-11T13:02:15",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Public WC"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 930289778,
+        "name": "Chevron",
+        "country": "US",
+        "address": "1790 Lombard St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94123",
+        "brand": "Chevron",
+        "phoneNumber": "+14159224922",
+        "geometry": {
+            "coordinates": [
+                -122.4309716,
+                37.8007585
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.499,
+                "updateDate": "2023-11-11T13:03:48",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-11T13:03:48",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.699,
+                "updateDate": "2023-11-11T13:03:48",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.879,
+                "updateDate": "2023-11-11T15:08:47",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 265490,
+        "name": "Chevron",
+        "country": "US",
+        "address": "1000 Harrison St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94103",
+        "brand": "Chevron",
+        "phoneNumber": "+14158633001",
+        "geometry": {
+            "coordinates": [
+                -122.4046474,
+                37.7773016
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.899,
+                "updateDate": "2023-11-11T13:03:03",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-11T13:32:40",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.699,
+                "updateDate": "2023-11-11T13:03:03",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.879,
+                "updateDate": "2023-11-11T13:03:03",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 420623,
+        "name": "Texaco",
+        "country": "US",
+        "address": "3800 3Rd St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94124",
+        "brand": "Texaco",
+        "phoneNumber": "+14158214958",
+        "geometry": {
+            "coordinates": [
+                -122.388312,
+                37.7426787
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T14:57:05",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T12:58:01",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.399,
+                "updateDate": "2023-11-11T12:58:01",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": []
+    },
+    {
+        "id": 484973,
+        "name": "Chevron",
+        "country": "US",
+        "address": "3750 3Rd St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94124",
+        "brand": "Chevron",
+        "phoneNumber": "+14152855839",
+        "geometry": {
+            "coordinates": [
+                -122.3880631,
+                37.7431902
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.699,
+                "updateDate": "2023-11-11T12:59:56",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 4.999,
+                "updateDate": "2023-11-11T14:12:05",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.199,
+                "updateDate": "2023-11-11T14:30:21",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.379,
+                "updateDate": "2023-11-11T13:37:15",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484939,
+        "name": "Loop",
+        "country": "US",
+        "address": "2890 3Rd St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94107",
+        "brand": "Shell",
+        "phoneNumber": "+14158210998",
+        "geometry": {
+            "coordinates": [
+                -122.388114,
+                37.753144
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T10:42:22",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.199,
+                "updateDate": "2023-11-11T15:08:04",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.399,
+                "updateDate": "2023-11-10T15:56:10",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.599,
+                "updateDate": "2023-11-11T11:35:14",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 601061,
+        "name": "Chicos Service Station",
+        "country": "US",
+        "address": "401 Linden Ave",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Independent",
+        "phoneNumber": "+16508761833",
+        "geometry": {
+            "coordinates": [
+                -122.4098966,
+                37.6563917
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.999,
+                "updateDate": "2023-11-10T17:55:40",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 6.199,
+                "updateDate": "2023-11-10T16:36:19",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.399,
+                "updateDate": "2023-11-10T16:36:19",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            }
+        ]
+    },
+    {
+        "id": 615188,
+        "name": "Chevron",
+        "country": "US",
+        "address": "209 El Camino Real",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Chevron",
+        "phoneNumber": "+16505887484",
+        "geometry": {
+            "coordinates": [
+                -122.4255121,
+                37.6427721
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.399,
+                "updateDate": "2023-11-11T14:39:54",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-10T16:09:24",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.799,
+                "updateDate": "2023-11-10T16:09:24",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 224967,
+        "name": "Shell",
+        "country": "US",
+        "address": "899 Airport Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Shell",
+        "phoneNumber": "+16505882213",
+        "geometry": {
+            "coordinates": [
+                -122.4045817,
+                37.6610153
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.999,
+                "updateDate": "2023-11-11T11:24:41",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 6.199,
+                "updateDate": "2023-11-10T16:17:09",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.299,
+                "updateDate": "2023-11-10T08:45:46",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Public WC"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 483841,
+        "name": "Shell",
+        "country": "US",
+        "address": "123 Linden Ave",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Shell",
+        "phoneNumber": "+16505830755",
+        "geometry": {
+            "coordinates": [
+                -122.4107519,
+                37.653989
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.799,
+                "updateDate": "2023-11-11T11:00:17",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 986133241,
+        "name": "76",
+        "country": "US",
+        "address": "221 Airport Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "76",
+        "phoneNumber": "+16505880538",
+        "geometry": {
+            "coordinates": [
+                -122.408186,
+                37.6544883
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 06:00-24:00",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.699,
+                "updateDate": "2023-11-09T22:48:19",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.899,
+                "updateDate": "2023-11-11T15:10:21",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 6.099,
+                "updateDate": "2023-11-11T00:22:21",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.299,
+                "updateDate": "2023-11-11T00:22:21",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484943,
+        "name": "Bryant Shell",
+        "country": "US",
+        "address": "598 Bryant St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94107",
+        "brand": "Shell",
+        "phoneNumber": "+14154955833",
+        "geometry": {
+            "coordinates": [
+                -122.3980318,
+                37.7799144
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 6.059,
+                "updateDate": "2023-11-11T11:30:17",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 6.159,
+                "updateDate": "2023-11-10T09:32:47",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.059,
+                "updateDate": "2023-11-09T15:31:55",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Public WC"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 593011,
+        "name": "Speedway Express",
+        "country": "US",
+        "address": "35 S Linden Ave",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Speedway",
+        "phoneNumber": "+16509522027",
+        "geometry": {
+            "coordinates": [
+                -122.4117467,
+                37.6498612
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-11T14:54:14",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.699,
+                "updateDate": "2023-11-10T10:57:48",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 484942,
+        "name": "Shell",
+        "country": "US",
+        "address": "551 3Rd St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94107",
+        "brand": "Shell",
+        "phoneNumber": "+14159770849",
+        "geometry": {
+            "coordinates": [
+                -122.3946854,
+                37.7806636
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 5.799,
+                "updateDate": "2023-11-11T10:03:44",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.359,
+                "updateDate": "2023-11-11T11:02:28",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.599,
+                "updateDate": "2023-11-11T13:02:47",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.759,
+                "updateDate": "2023-11-11T13:46:51",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 483842,
+        "name": "Produce Shell",
+        "country": "US",
+        "address": "140 Produce Ave",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Shell",
+        "phoneNumber": "+16508714131",
+        "geometry": {
+            "coordinates": [
+                -122.4072787,
+                37.6480423
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.979,
+                "updateDate": "2023-11-11T08:26:45",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 6.179,
+                "updateDate": "2023-11-10T14:46:36",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.379,
+                "updateDate": "2023-11-11T11:14:02",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    },
+    {
+        "id": 484837,
+        "name": "Shell",
+        "country": "US",
+        "address": "1199 El Camino Real",
+        "city": "San Bruno",
+        "state": "CA",
+        "zipCode": "94066",
+        "brand": "Shell",
+        "phoneNumber": "+16505897058",
+        "geometry": {
+            "coordinates": [
+                -122.4214574,
+                37.6363449
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.319,
+                "updateDate": "2023-11-11T14:01:51",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.499,
+                "updateDate": "2023-11-09T15:22:02",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.699,
+                "updateDate": "2023-11-10T21:16:02",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 268374,
+        "name": "76",
+        "country": "US",
+        "address": "490 Bay St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94133",
+        "brand": "76",
+        "phoneNumber": "+14157717730",
+        "geometry": {
+            "coordinates": [
+                -122.4150181,
+                37.8056112
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 5.999,
+                "updateDate": "2023-11-11T10:18:08",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 6.199,
+                "updateDate": "2023-11-11T13:38:13",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.399,
+                "updateDate": "2023-11-10T20:00:21",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Car repair"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 494973,
+        "name": "Speedway",
+        "country": "US",
+        "address": "176 Gateway Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Speedway",
+        "phoneNumber": "+16507379800",
+        "geometry": {
+            "coordinates": [
+                -122.4022725,
+                37.6521859
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.299,
+                "updateDate": "2023-11-11T08:15:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-11T10:31:11",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.699,
+                "updateDate": "2023-11-11T08:15:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.799,
+                "updateDate": "2023-11-11T08:15:46",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 483839,
+        "name": "7-Eleven",
+        "country": "US",
+        "address": "128 Harbor Way",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "7-Eleven",
+        "phoneNumber": "+16507379675",
+        "geometry": {
+            "coordinates": [
+                -122.4004703,
+                37.6537698
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 6.299,
+                "updateDate": "2023-11-11T12:50:50",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 5.499,
+                "updateDate": "2023-11-11T14:50:49",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 5.799,
+                "updateDate": "2023-11-11T08:15:46",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 5.999,
+                "updateDate": "2023-11-11T09:04:09",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Food to go"
+            },
+            {
+                "service": "Food to stay"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 483845,
+        "name": "Shell",
+        "country": "US",
+        "address": "248 S Airport Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Shell",
+        "phoneNumber": "+16505832324",
+        "geometry": {
+            "coordinates": [
+                -122.4058814,
+                37.6479661
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 7.899,
+                "updateDate": "2023-11-11T10:05:36",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 6.609,
+                "updateDate": "2023-11-11T13:08:17",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 6.799,
+                "updateDate": "2023-11-10T12:35:33",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 6.999,
+                "updateDate": "2023-11-09T16:16:55",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Tyre air line"
+            },
+            {
+                "service": "Car wash"
+            }
+        ]
+    },
+    {
+        "id": 417534,
+        "name": "Valero",
+        "country": "US",
+        "address": "300 S Airport Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Valero",
+        "phoneNumber": "+16505833251",
+        "geometry": {
+            "coordinates": [
+                -122.4058095,
+                37.6460983
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Sun: 24 Hours",
+        "products": [
+            {
+                "type": "Diesel",
+                "price": 7.899,
+                "updateDate": "2023-11-09T07:34:20",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Regular",
+                "price": 6.599,
+                "updateDate": "2023-11-11T12:23:56",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "MidGrade",
+                "price": 6.799,
+                "updateDate": "2023-11-09T13:58:41",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Automated teller machine"
+            },
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            }
+        ]
+    },
+    {
+        "id": 611946,
+        "name": "Costco",
+        "country": "US",
+        "address": "451 S Airport Blvd",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zipCode": "94080",
+        "brand": "Costco",
+        "phoneNumber": "+16508722021",
+        "geometry": {
+            "coordinates": [
+                -122.4013815,
+                37.6405121
+            ],
+            "type": "Point"
+        },
+        "highway": "0",
+        "openingHours": "Mon-Fri: 06:00-21:30, Sat-Sun: 06:00-20:00",
+        "products": [
+            {
+                "type": "Regular",
+                "price": 4.599,
+                "updateDate": "2023-11-11T15:03:28",
+                "currencyCode": "USD"
+            },
+            {
+                "type": "Premium",
+                "price": 4.899,
+                "updateDate": "2023-11-11T15:03:28",
+                "currencyCode": "USD"
+            }
+        ],
+        "services": [
+            {
+                "service": "Grocery store"
+            },
+            {
+                "service": "Convenience store"
+            },
+            {
+                "service": "Tyre air line"
+            }
+        ]
+    }
+]

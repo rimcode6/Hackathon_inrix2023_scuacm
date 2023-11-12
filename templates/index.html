@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fuel Station Finder</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        #map {
+            width: 100%;
+            height: 400px; /* Adjust as needed */
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Fuel Station Finder</h1>
+
+        <!-- Map Section -->
+        <div id="map">
+            <iframe
+                width="100%"
+                height="100%"
+                frameborder="0" style="border:0"
+                referrerpolicy="no-referrer-when-downgrade"
+                src="https://www.google.com/maps/embed/v1/view?key=YOUR_API_KEY&center=37.7749,-122.4194&zoom=12"
+                allowfullscreen>
+            </iframe>
+        </div>
+
+        <!-- Existing Content Below -->
+        <form action="/get_stations" method="post">
+            <input type="text" id="location" name="location" placeholder="Enter your location">
+            <button type="submit">Find Stations</button>
+            <button type="button" id="current-location">Use Current Location</button>
+        </form>
+        {% if stations %}
+            <h2>Fuel Stations in San Francisco</h2>
+            <div class="stations-list">
+                {% for station in stations %}
+                    <div class="station">
+                        <h3>{{ station['name'] }}</h3>
+                        <p><strong>Wait Time:</strong> {{ station['wait_time'] }} minutes</p>
+                        <p><strong>Address:</strong> {{ station['address'] }}</p>
+                        <p><strong>City:</strong> {{ station['city'] }}</p>
+                        <p><strong>Fuel Type:</strong> {{ station['type'] }}</p>
+                        <p><strong>Price:</strong> {{ station['price'] }}</p>
+                        <a href="{{ station['google_maps_link'] }}" target="_blank">Get Directions</a>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
