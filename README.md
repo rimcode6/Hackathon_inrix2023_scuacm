@@ -15,7 +15,7 @@ Flask run
 python app.py
 
 
-your_project/
+EcoFuel
 │
 ├── app.py               # Your Flask application
 │
